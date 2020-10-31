@@ -1,2 +1,3 @@
 # startPage
-a simple HTML + CSS start page
+a simple HTML and CSS start page❤️
+it's awesome.
